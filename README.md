@@ -1,2 +1,3 @@
 # git-example
- Example git project
+ This is a git example file.
+ Yeet yeet *dabs*
